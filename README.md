@@ -15,9 +15,9 @@ Cada bicicleta añadida a nuestro catálogo de venta va a pertenecer a una deter
 # Sección pública y privada
 Nuestra página cuenta con una vista pública y una privada. 
 Por lo que para acceder a aquellas funcionalidades que no se incluyen en la sección pública es necesario que el usuario se encuentre extrictamente logueado y así pasar a ser usuario administrador del sitio. Esto le desbloqueará las opciones de agregar y/o modificar una categoria o item específico. 
-# LOGIN
-- Una vez posicionado en el "home" de nuestra página cliquear en el apartado "login".
+# Log-in
+- Una vez posicionado en el "home" de nuestra página cliquear en el apartado "log in".
 - Alli proporcionar email "webadmin" y password "admin".
-- Hacer click en login y ya podrás navegar sin ninguna restricción.
+- Hacer click en "log in" y ya podrás navegar sin ninguna restricción.
 # Participantes
 Manuel Díaz y Ludmila Belén Argüello.
