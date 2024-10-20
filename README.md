@@ -11,7 +11,7 @@ Cada bicicleta añadida a nuestro catálogo de venta va a pertenecer a una deter
 - Abrir la consola y encender tanto Apache como MySQL.
 - Clonar nuestro repositorio "https://github.com/27lud/Bicicletas_TPE.git" en tu carpeta "\xampp\htdocs".
 - En phpMyAdmin Importar la base de datos "bicicletas_db.sql". 
-- Por último, ya en el browser ingresar a "http://localhost/WEB-2-TPE/".
+- Por último, ya en el browser ingresar a "http://localhost/Bicicletas_TPE/".
 # Sección pública y privada
 Nuestra página cuenta con una vista pública y una privada. 
 Por lo que para acceder a aquellas funcionalidades que no se incluyen en la sección pública es necesario que el usuario se encuentre extrictamente logueado y así pasar a ser usuario administrador del sitio. Esto le desbloqueará las opciones de agregar y/o modificar una categoria o item específico. 
